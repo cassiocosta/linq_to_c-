@@ -6,7 +6,7 @@ using System.Text;
 using linq_to_c_.Infrastructure;
 using linq_to_c_.Models;
 
-var repository = new PersonRepository("data/data.json");
+var repository = new PersonRepository("infrastructure/data/data.json");
 IEnumerable<Person> people = repository.GetPeople();
 
 // All with a salary above 70
