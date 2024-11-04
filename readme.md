@@ -1,4 +1,4 @@
-# MyLinqExamples
+# Testing linq
 
 ## Objective
 This project demonstrates simple and practical examples of how to use LINQ queries in C# to efficiently manipulate data. The data used is in a JSON file and represents a list of people with various information.
