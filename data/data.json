@@ -1,0 +1,43 @@
+[
+    {
+      "Id": 1,
+      "Name": "Alice",
+      "Age": 25,
+      "City": "New York",
+      "Hobbies": ["Reading", "Hiking"],
+      "Salary": 50000
+    },
+    {
+      "Id": 2,
+      "Name": "Bob",
+      "Age": 30,
+      "City": "Los Angeles",
+      "Hobbies": ["Gaming", "Cooking"],
+      "Salary": 60000
+    },
+    {
+      "Id": 3,
+      "Name": "Charlie",
+      "Age": 35,
+      "City": "Chicago",
+      "Hobbies": ["Music", "Traveling"],
+      "Salary": 75000
+    },
+    {
+      "Id": 4,
+      "Name": "Diana",
+      "Age": 40,
+      "City": "New York",
+      "Hobbies": ["Writing", "Yoga"],
+      "Salary": 80000
+    },
+    {
+      "Id": 5,
+      "Name": "Ethan",
+      "Age": 28,
+      "City": "Seattle",
+      "Hobbies": ["Running", "Hiking"],
+      "Salary": 55000
+    }
+  ]
+  
